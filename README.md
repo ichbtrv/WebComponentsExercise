@@ -1,6 +1,6 @@
 # Web components exercise
 
-I wanted to learn more about web components so I used a take home exercise as an opportunity to do so. These were the instructions laid out.
+I wanted to learn more about web components so I used a take home exercise as an opportunity to do so. These were the instructions laid out. I would have written this in typescript but the instructions were pretty explicit about using vanilla js. 
 
 ## The instructions
 
