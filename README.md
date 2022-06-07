@@ -1,6 +1,6 @@
 # Web components exercise
 
-I wanted to learn more about web components so I used a take home exercise as an opportunity to do so. These were the instructions laid out. I would have written this in typescript but the instructions were pretty explicit about using vanilla js. 
+I wanted to learn more about web components so I did an exercise implementing them. These were the instructions laid out. I would have written this in typescript but the instructions were pretty explicit about using vanilla js. 
 <img src="https://i.imgur.com/5f4EtB3.jpg" width="1200" alt="example" /> 
 <img src="https://i.imgur.com/jg7dSbF.jpg" width="1200" alt="example" /> 
 <img src="https://i.imgur.com/9WSrBRx.jpg" width="1200" alt="example" /> 
